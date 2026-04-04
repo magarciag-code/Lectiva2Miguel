@@ -16,6 +16,18 @@ npm run check
 npm run build
 ```
 
+## CI/CD
+
+El proyecto queda preparado para GitHub Pages con GitHub Actions:
+
+```bash
+.github/workflows/deploy.yml
+```
+
+- Ejecuta `npm ci`, `npm run check` y `npm run build`.
+- Publica automaticamente en GitHub Pages cada vez que hay un push a `main`.
+- Usa `BASE_PATH` con el nombre del repositorio para que funcione en `/<repo>`.
+
 ## Estructura
 
 - `src/lib/core`: cliente HTTP, configuracion y adaptadores.
