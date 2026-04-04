@@ -9,9 +9,9 @@
 
 <section class="hero">
 	<div class="eyebrow">SvelteKit · Rick and Morty</div>
-	<h1>Arquitectura frontend lista para crecer sin mezclar UI con negocio.</h1>
+	<h1>TALLER REALIZADO Y TERMINADO DE MIGUEL ANGEL</h1>
 	<p>
-		Base feature-first/domain-first con contratos claros entre pantalla, dominio y API.
+		Universidad Unincca  Diego Fernando Zarate Pineda
 	</p>
 </section>
 
